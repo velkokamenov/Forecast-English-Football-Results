@@ -1,0 +1,31 @@
+Goal/Goal - Target variable - 1 corresponds to "Yes" and "No" to 0
+
+B365H - Betting odds for the home team to win the match
+
+B365D - Betting odds for the match to end draw
+
+B365A - Betting odds for the away team to win the match
+
+AverageHTSShifted - Average number of shots on target per game for the home team for the season
+
+AverageATSShifted - Average number of shots on target per game for the away team for the season
+
+AverageHomeTeamSavesShifted - Average saves per match for the home team for the season
+
+AverageAwayTeamSavesShifted - Average saves per match for the away team for the season
+
+AverageHCShifted - Average number of corner kicks per match for the home team for the season
+
+AverageACShifted - Average number of corner kicks per match for the away team for the season
+
+AverageHGShifted - Average number of goals per game for the home team for the season
+
+AverageAGShifted - Average number of goals per game for the away team for the season
+
+PercentageMGSHShifted - Percentage of matches with at least 1 goal scored by the home side in home games for the season
+
+PercentageMGSAShifted - Percentage of matches with at least 1 goal scored by the away side in away games for the season
+
+PercentageMGCHShifted - Percentage of matches with at least 1 goal conceded by the home side in home games for the season
+
+PercentageMGCAShifted - Percentage of matches with at least 1 goal conceded by the away side in away games for the season
